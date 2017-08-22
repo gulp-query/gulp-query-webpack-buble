@@ -1,14 +1,13 @@
 {
     "name": "gulp-query-webpack-buble",
     "version": "1.0.0",
-    "description": "",
+    "description": "Webpack with a single line of code using Bublé",
     "main": "index.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "author": "",
+    "author": "Marat Nuriev",
+    "email": "nurieff@gmail.com",
     "license": "MIT",
     "dependencies": {
+        "gulp-query": "github:gulp-query/gulp-query",
         "buble-loader": "^0.4.1",
         "css-loader": "^0.28.5",
         "gulp": "^3.9.1",
