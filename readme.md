@@ -1,4 +1,4 @@
-## gulp-query-webpack
+## gulp-query-webpack-buble
 Webpack plugin for [gulp-query](https://github.com/gulp-query/gulp-query)
 
 Uses

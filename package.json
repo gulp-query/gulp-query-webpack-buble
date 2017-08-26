@@ -1,6 +1,6 @@
 {
     "name": "gulp-query-webpack-buble",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Webpack with a single line of code using Bublé",
     "main": "index.js",
     "author": "Marat Nuriev",
