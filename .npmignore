@@ -6,3 +6,4 @@ npm-debug.log
 test
 yarn.lock
 package-lock.json
+.idea
