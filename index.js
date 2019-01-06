@@ -7,7 +7,7 @@ let Plugin = require('gulp-query').Plugin
 class WebpackPlugin extends Plugin {
 
   static method() {
-    return 'webpackBuble';
+    return 'webpack';
   }
 
   webpackConfig() {
